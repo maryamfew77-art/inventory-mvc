@@ -1,0 +1,10 @@
+# Real settings and secrets: never upload these
+config/config.php
+
+# Uploaded photos (only the protection file stays)
+public/uploads/*
+!public/uploads/.htaccess
+
+# Windows and editor files
+Thumbs.db
+.vscode/
