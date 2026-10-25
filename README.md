@@ -81,7 +81,17 @@ POST body:
 ## Project structure
 
 ```
-app/
+ Screenshots
+
+| Dashboard | Products |
+|---|---|
+| <a href="https://github.com/user-attachments/assets/101816a9-515d-477d-b83c-f963b2fc41ee"><img src="https://github.com/user-attachments/assets/101816a9-515d-477d-b83c-f963b2fc41ee" width="400" alt="Dashboard"></a> | <a href="https://github.com/user-attachments/assets/375b4606-3eeb-42be-a31f-31cb12d842e4"><img src="https://github.com/user-attachments/assets/375b4606-3eeb-42be-a31f-31cb12d842e4" width="400" alt="Products"></a> |
+| **Validation** | **Photo Upload** |
+| <a href="https://github.com/user-attachments/assets/c2f5c468-7a5b-4c5c-b279-a4040af9775f"><img src="https://github.com/user-attachments/assets/c2f5c468-7a5b-4c5c-b279-a4040af9775f" width="400" alt="Validation"></a> | <a href="https://github.com/user-attachments/assets/3061ae47-144f-4386-b387-e96bd0db31ac"><img src="https://github.com/user-attachments/assets/3061ae47-144f-4386-b387-e96bd0db31ac" width="400" alt="Photo upload"></a> |
+| **Categories** | **User Role** |
+| <a href="https://github.com/user-attachments/assets/b657fc56-20e3-42fe-b94e-40f3529e4dd7"><img src="https://github.com/user-attachments/assets/b657fc56-20e3-42fe-b94e-40f3529e4dd7" width="400" alt="Categories"></a> | <a href="https://github.com/user-attachments/assets/b3c833b3-2334-4bb2-aace-85238c36ca88"><img src="https://github.com/user-attachments/assets/b3c833b3-2334-4bb2-aace-85238c36ca88" width="400" alt="User role"></a> |
+| **API 200** | **API 201** |
+| <a href="https://github.com/user-attachments/assets/8e72c475-faeb-4e0a-bbe0-b160b832e390"><img src="https://github.com/user-attachments/assets/8e72c475-faeb-4e0a-bbe0-b160b832e390" width="400" alt="API 200"></a> | <a href="https://github.com/user-attachments/assets/2d9cab64-8faa-4154-a96a-6956e37a05a3"><img src="https://github.com/user-attachments/assets/2d9cab64-8faa-4154-a96a-6956e37a05a3" width="400" alt="API 201"></a> |p/
   Core/         Router, Controller, Database, Model, Uploader, helpers
   Controllers/  Auth, Dashboard, Products, Categories, Api
   Models/       User, Product, Category, Supplier
@@ -90,23 +100,6 @@ config/         config.example.php
 public/         index.php, .htaccess, assets, uploads
 database.sql    tables, demo data, demo logins
 ```
-
-## Screenshots
-
-| | |
-|---|---|
-| ![Dashboard]<img width="993" height="880" alt="Screenshot 2026-10-26 003229" src="https://github.com/user-attachments/assets/101816a9-515d-477d-b83c-f963b2fc41ee" />
- | ![Products] <img width="987" height="872" alt="Screenshot 2026-10-26 003241" src="https://github.com/user-attachments/assets/375b4606-3eeb-42be-a31f-31cb12d842e4" />
- |
-| ![Validation] <img width="1877" height="883" alt="Screenshot 2026-10-26 004224" src="https://github.com/user-attachments/assets/c2f5c468-7a5b-4c5c-b279-a4040af9775f" />
- | ![Photo upload] <img width="641" height="490" alt="image" src="https://github.com/user-attachments/assets/3061ae47-144f-4386-b387-e96bd0db31ac" />
-|
-| ![Categories] <img width="1010" height="856" alt="Screenshot 2026-10-26 003254" src="https://github.com/user-attachments/assets/b657fc56-20e3-42fe-b94e-40f3529e4dd7" />
-| ![User role] <img width="991" height="865" alt="Screenshot 2026-10-26 003118" src="https://github.com/user-attachments/assets/b3c833b3-2334-4bb2-aace-85238c36ca88" />
- |
-| ![API 200] <img width="871" height="923" alt="Screenshot 2026-10-25 233409" src="https://github.com/user-attachments/assets/8e72c475-faeb-4e0a-bbe0-b160b832e390" />
-| ![API 201] <img width="886" height="922" alt="Screenshot 2026-10-25 233926" src="https://github.com/user-attachments/assets/2d9cab64-8faa-4154-a96a-6956e37a05a3" />
- |
 
 ## Going live (summary)
 
