@@ -95,10 +95,18 @@ database.sql    tables, demo data, demo logins
 
 | | |
 |---|---|
-| ![Dashboard](docs/screenshots/01-dashboard.png) | ![Products](docs/screenshots/02-products.png) |
-| ![Validation](docs/screenshots/03-validation.png) | ![Photo upload](docs/screenshots/04-photo-upload.png) |
-| ![Categories](docs/screenshots/05-categories.png) | ![User role](docs/screenshots/06-user-role.png) |
-| ![API 200](docs/screenshots/07-api-200.png) | ![API 422](docs/screenshots/08-api-422.png) |
+| ![Dashboard]<img width="993" height="880" alt="Screenshot 2026-10-26 003229" src="https://github.com/user-attachments/assets/101816a9-515d-477d-b83c-f963b2fc41ee" />
+ | ![Products] <img width="987" height="872" alt="Screenshot 2026-10-26 003241" src="https://github.com/user-attachments/assets/375b4606-3eeb-42be-a31f-31cb12d842e4" />
+ |
+| ![Validation] <img width="1877" height="883" alt="Screenshot 2026-10-26 004224" src="https://github.com/user-attachments/assets/c2f5c468-7a5b-4c5c-b279-a4040af9775f" />
+ | ![Photo upload] <img width="641" height="490" alt="image" src="https://github.com/user-attachments/assets/3061ae47-144f-4386-b387-e96bd0db31ac" />
+|
+| ![Categories] <img width="1010" height="856" alt="Screenshot 2026-10-26 003254" src="https://github.com/user-attachments/assets/b657fc56-20e3-42fe-b94e-40f3529e4dd7" />
+| ![User role] <img width="991" height="865" alt="Screenshot 2026-10-26 003118" src="https://github.com/user-attachments/assets/b3c833b3-2334-4bb2-aace-85238c36ca88" />
+ |
+| ![API 200] <img width="871" height="923" alt="Screenshot 2026-10-25 233409" src="https://github.com/user-attachments/assets/8e72c475-faeb-4e0a-bbe0-b160b832e390" />
+| ![API 201] <img width="886" height="922" alt="Screenshot 2026-10-25 233926" src="https://github.com/user-attachments/assets/2d9cab64-8faa-4154-a96a-6956e37a05a3" />
+ |
 
 ## Going live (summary)
 
